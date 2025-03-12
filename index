@@ -3,16 +3,31 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Corner Ball</title>
     <link rel="stylesheet" href="style.css">
+    <title>Corner Ball</title>
 </head>
-<body class = "bg - black 900">
-
-    <header class="bg-black ">
-        <div class="container mx-auto flex items-center justify-between">
-            <div class="flex items-center">
-        Corner Ball 
+<body>
+    <header>
+        <h1>CornerBall</h1> 
     </header>
-    
+    <nav>
+        <ul> 
+            <li>
+                <a href="#"></a>Home</a>
+            </li>
+            
+            <li>
+                <a href="#"></a>Kabar Bola</a>
+            </li>
+            
+            <li>
+                <a href="#"></a>Zine Komunitas</a>
+            </li>
+            
+            <li>
+                <a href="#"></a>About Us</a>
+            </li>
+        </ul>
+    </nav>
 </body>
 </html>
